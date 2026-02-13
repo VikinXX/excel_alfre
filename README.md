@@ -1,4 +1,5 @@
-<img width="2816" height="1536" alt="tree decision workflow" src="https://github.com/user-attachments/assets/4a1d1b31-69d5-436c-9846-bc0524384850" /># Task-Oriented Training Randomizer
+# Task-Oriented Training Randomizer
+<img width="2816" height="1536" alt="tree decision workflow" src="https://github.com/user-attachments/assets/4a1d1b31-69d5-436c-9846-bc0524384850" />
 
 ## Overview
 This tool is designed for stroke rehabilitation research. It automates the randomization of Task-Oriented Training (TOT) exercises for patients based on their Upper-Limb Fugl-Meyer Assessment (UL-FMA) scores. By using conditional logic tied to specific UL-FMA subscales, the tool ensures that patients are only assigned exercises that are appropriate for their current level of motor recovery.
